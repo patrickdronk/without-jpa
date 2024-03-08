@@ -1,0 +1,3 @@
+### get currencies with pagination page 1 with size 2
+GET http://localhost:8080/
+Content-Type: application/json
